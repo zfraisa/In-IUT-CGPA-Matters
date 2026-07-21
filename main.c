@@ -1,6 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
-    printf("In IUT, CGPA Matters");
+int main()
+{
+    printf("In IUT, CGPA Matters!\n");
     return 0;
 }
